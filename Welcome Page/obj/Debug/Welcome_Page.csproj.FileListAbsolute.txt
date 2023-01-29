@@ -1,0 +1,54 @@
+D:\OurProj\Welcome Page\obj\Debug\Welcome_Page.csproj.AssemblyReference.cache
+D:\OurProj\Welcome Page\obj\Debug\Clinic_System.WelcomePg.resources
+D:\OurProj\Welcome Page\obj\Debug\Clinic_System.Properties.Resources.resources
+D:\OurProj\Welcome Page\obj\Debug\Welcome_Page.csproj.GenerateResource.cache
+D:\OurProj\Welcome Page\obj\Debug\Welcome_Page.csproj.CoreCompileInputs.cache
+D:\OurProj\Welcome Page\obj\Debug\Clinic System.exe
+D:\OurProj\Welcome Page\obj\Debug\Clinic System.pdb
+D:\OurProj\Welcome Page\bin\Debug\Clinic System.exe.config
+D:\OurProj\Welcome Page\bin\Debug\Clinic System.exe
+D:\OurProj\Welcome Page\bin\Debug\Clinic System.pdb
+D:\OurProj\Welcome Page\bin\Debug\Clinical System.exe
+D:\OurProj\Welcome Page\bin\Debug\DrPanel.exe
+D:\OurProj\Welcome Page\bin\Debug\SecretaryNew.exe
+D:\OurProj\Welcome Page\bin\Debug\DrPanel.pdb
+D:\OurProj\Welcome Page\bin\Debug\DrPanel.exe.config
+D:\OurProj\Welcome Page\bin\Debug\SecretaryNew.pdb
+D:\OurProj\Welcome Page\bin\Debug\SecretaryNew.exe.config
+D:\OurProj\Welcome Page\bin\Debug\Clinical System.pdb
+D:\OurProj\Welcome Page\bin\Debug\Clinical System.exe.config
+D:\OurProj\Welcome Page\obj\Debug\Welcome_Page.csproj.CopyComplete
+D:\BMD302\Test project\Welcome Page\bin\Debug\Clinic System.exe.config
+D:\BMD302\Test project\Welcome Page\bin\Debug\Clinic System.exe
+D:\BMD302\Test project\Welcome Page\bin\Debug\Clinic System.pdb
+D:\BMD302\Test project\Welcome Page\bin\Debug\DrPanel.exe
+D:\BMD302\Test project\Welcome Page\bin\Debug\DrPanel.pdb
+D:\BMD302\Test project\Welcome Page\bin\Debug\DrPanel.exe.config
+D:\BMD302\Test project\Welcome Page\obj\Debug\Welcome_Page.csproj.AssemblyReference.cache
+D:\BMD302\Test project\Welcome Page\obj\Debug\Welcome_Page.csproj.SuggestedBindingRedirects.cache
+D:\BMD302\Test project\Welcome Page\obj\Debug\Clinic_System.WelcomePg.resources
+D:\BMD302\Test project\Welcome Page\obj\Debug\Clinic_System.Properties.Resources.resources
+D:\BMD302\Test project\Welcome Page\obj\Debug\Welcome_Page.csproj.GenerateResource.cache
+D:\BMD302\Test project\Welcome Page\obj\Debug\Welcome_Page.csproj.CoreCompileInputs.cache
+D:\BMD302\Test project\Welcome Page\obj\Debug\Welcome_Page.csproj.CopyComplete
+D:\BMD302\Test project\Welcome Page\obj\Debug\Clinic System.exe
+D:\BMD302\Test project\Welcome Page\obj\Debug\Clinic System.pdb
+D:\BMD302\Test project\Welcome Page\bin\Debug\NewNewSecretary.exe
+D:\BMD302\Test project\Welcome Page\bin\Debug\NewNewSecretary.pdb
+D:\BMD302\Test project\Welcome Page\bin\Debug\NewNewSecretary.exe.config
+D:\BMD302\Test project\Welcome Page\bin\Debug\tessdata\configs\config.cfg
+D:\BMD302\Test project\Welcome Page\bin\Debug\tessdata\eng.traineddata
+D:\BMD302\Test project\Welcome Page\bin\Debug\tessdata\equ.traineddata
+D:\BMD302\Test project\Welcome Page\bin\Debug\tessdata\osd.traineddata
+D:\BMD302\Test project\Welcome Page\bin\Debug\tessdata\pdf.ttf
+D:\BMD302\Test project\Welcome Page\bin\Debug\tessdata\pdf.ttx
+D:\BMD302\Test project\Welcome Page\bin\Debug\x64\tesseract.dll
+D:\BMD302\Test project\Welcome Page\bin\Debug\x86\Tesseract.dll
+D:\BMD302\Test project\Welcome Page\bin\Debug\Patagames.Ocr.dll
+D:\BMD302\Test project\Welcome Page\bin\Debug\Patagames.Ocr.xml
+D:\BMD302\Test project\Welcome Page\bin\Debug\NewSignUp.exe
+D:\BMD302\Test project\Welcome Page\bin\Debug\NewSignUp.pdb
+D:\BMD302\Test project\Welcome Page\bin\Debug\NewSignUp.exe.config
+D:\BMD302\Test project\Welcome Page\bin\Debug\itextsharp.dll
+D:\BMD302\Test project\Welcome Page\bin\Debug\BouncyCastle.Crypto.dll
+D:\BMD302\Test project\Welcome Page\bin\Debug\itextsharp.xml

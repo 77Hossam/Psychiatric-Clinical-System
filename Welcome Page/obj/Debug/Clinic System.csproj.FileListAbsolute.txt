@@ -1,0 +1,11 @@
+D:\BMD302\Project\Program\Clinic System\bin\Debug\Clinic System.exe.config
+D:\BMD302\Project\Program\Clinic System\bin\Debug\Clinic System.exe
+D:\BMD302\Project\Program\Clinic System\bin\Debug\Clinic System.pdb
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic System.csproj.AssemblyReference.cache
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic System.csproj.SuggestedBindingRedirects.cache
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic_System.Properties.Resources.resources
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic System.csproj.GenerateResource.cache
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic System.csproj.CoreCompileInputs.cache
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic System.exe
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic System.pdb
+D:\BMD302\Project\Program\Clinic System\obj\Debug\Clinic_System.WelcomePg.resources

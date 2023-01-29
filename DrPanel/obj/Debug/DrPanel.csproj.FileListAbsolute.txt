@@ -1,0 +1,106 @@
+D:\OurProj\DrPanel\bin\Debug\DrPanel.exe.config
+D:\OurProj\DrPanel\bin\Debug\DrPanel.exe
+D:\OurProj\DrPanel\bin\Debug\DrPanel.pdb
+D:\OurProj\DrPanel\obj\Debug\DrPanel.csproj.AssemblyReference.cache
+D:\OurProj\DrPanel\obj\Debug\DrPanel.Properties.Resources.resources
+D:\OurProj\DrPanel\obj\Debug\DrPanel.csproj.GenerateResource.cache
+D:\OurProj\DrPanel\obj\Debug\DrPanel.csproj.CoreCompileInputs.cache
+D:\OurProj\DrPanel\obj\Debug\DrPanel.exe
+D:\OurProj\DrPanel\obj\Debug\DrPanel.pdb
+D:\OurProj\DrPanel\obj\Debug\DrPanel.DrPanel.resources
+D:\OurProj\DrPanel\bin\Debug\Guna.UI2.dll
+D:\OurProj\DrPanel\obj\Debug\DrPanel.csproj.CopyComplete
+D:\OurProj\DrPanel\obj\Debug\DrPanel.UserControls.AudioCallsUserControl.resources
+D:\OurProj\DrPanel\obj\Debug\DrPanel.UserControls.NewSessionUserControl.resources
+D:\OurProj\DrPanel\obj\Debug\DrPanel.UserControls.PrescriptionUserControl.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.csproj.AssemblyReference.cache
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.csproj.SuggestedBindingRedirects.cache
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.exe
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.pdb
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.DrPanel.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.Properties.Resources.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.UserControls.FirstSession.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.UserControls.NewSessionUserControl.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.UserControls.PrescriptionUserControl.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.csproj.GenerateResource.cache
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.csproj.CoreCompileInputs.cache
+D:\BMD302\Test project\DrPanel\bin\Debug\DrPanel.exe.config
+D:\BMD302\Test project\DrPanel\bin\Debug\DrPanel.exe
+D:\BMD302\Test project\DrPanel\bin\Debug\DrPanel.pdb
+D:\BMD302\Test project\DrPanel\bin\Debug\Guna.UI2.dll
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.csproj.CopyComplete
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\bin\Debug\DrPanel.exe.config
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\bin\Debug\DrPanel.exe
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\bin\Debug\DrPanel.pdb
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\bin\Debug\Guna.UI2.dll
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.csproj.AssemblyReference.cache
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.DrPanel.resources
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.Properties.Resources.resources
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.UserControls.FirstSession.resources
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.UserControls.NewSessionUserControl.resources
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.UserControls.PrescriptionUserControl.resources
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.csproj.GenerateResource.cache
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.csproj.CoreCompileInputs.cache
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.csproj.CopyComplete
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.exe
+D:\Mahy\Downloads\Mahy\Desktop\kk\DrPanel\obj\Debug\DrPanel.pdb
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\DrPanel.exe.config
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\DrPanel.exe
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\DrPanel.pdb
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\Guna.UI2.dll
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.csproj.AssemblyReference.cache
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.DrPanel.resources
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.Properties.Resources.resources
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.UserControls.Appointments.resources
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.UserControls.FirstSession.resources
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.UserControls.NewSessionUserControl.resources
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.UserControls.PrescriptionUserControl.resources
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.csproj.GenerateResource.cache
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.csproj.CoreCompileInputs.cache
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.csproj.CopyComplete
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.exe
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.pdb
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\tessdata\configs\config.cfg
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\tessdata\eng.traineddata
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\tessdata\equ.traineddata
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\tessdata\osd.traineddata
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\tessdata\pdf.ttf
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\tessdata\pdf.ttx
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\x64\tesseract.dll
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\x86\Tesseract.dll
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\Patagames.Ocr.dll
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\System.Drawing.Common.dll
+C:\Users\Akidy\source\repos\New\13\DrPanel\bin\Debug\Patagames.Ocr.xml
+C:\Users\Akidy\source\repos\New\13\DrPanel\obj\Debug\DrPanel.UserControls.OCR.resources
+D:\BMD302\Test project\DrPanel\bin\Debug\x64\tesseract.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\x86\Tesseract.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\tessdata\configs\config.cfg
+D:\BMD302\Test project\DrPanel\bin\Debug\tessdata\eng.traineddata
+D:\BMD302\Test project\DrPanel\bin\Debug\tessdata\equ.traineddata
+D:\BMD302\Test project\DrPanel\bin\Debug\tessdata\osd.traineddata
+D:\BMD302\Test project\DrPanel\bin\Debug\tessdata\pdf.ttf
+D:\BMD302\Test project\DrPanel\bin\Debug\tessdata\pdf.ttx
+D:\BMD302\Test project\DrPanel\bin\Debug\Patagames.Ocr.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\System.Drawing.Common.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\Patagames.Ocr.xml
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.UserControls.Appointments.resources
+D:\BMD302\Test project\DrPanel\obj\Debug\DrPanel.UserControls.OCR.resources
+D:\BMD302\Test project\DrPanel\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\MigraDoc.Rendering.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\MigraDoc.RtfRendering.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\PdfSharp.Charting.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\PdfSharp.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\BMD302\Test project\DrPanel\bin\Debug\MigraDoc.Rendering.xml
+D:\BMD302\Test project\DrPanel\bin\Debug\MigraDoc.RtfRendering.xml
+D:\BMD302\Test project\DrPanel\bin\Debug\PdfSharp.xml
+D:\BMD302\Test project\DrPanel\bin\Debug\PdfSharp.Charting.xml
+D:\BMD302\Test project\DrPanel\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\de\PdfSharp.resources.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\BouncyCastle.Crypto.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\itextsharp.dll
+D:\BMD302\Test project\DrPanel\bin\Debug\itextsharp.xml
